@@ -1,7 +1,5 @@
 👋 Hi, I'm **Sami9889**  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF6F61&center=true&vCenter=true&lines=Full+Stack+Developer;Open+Source+Contributor;Python+%7C+JavaScript+%7C+Cloud;Machine+Learning+Enthusiast;Building+Awesome+Projects+🚀)
-
 💻 Passionate **developer** who loves building projects and exploring new tech.  
 ⚡ Always learning **Python, JavaScript & Cloud Technologies**  
 
